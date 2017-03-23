@@ -4,7 +4,9 @@ ADFS Authorization Server for wicked.haufe.io
 
 **Note**: Work in progress. Will be published here as soon as it has reached a state where publishing makes sense.
 
-If you have ideas, feel free to file an issue.
+# THIS PROJECT HAS MOVED
+
+The already existing [wicked.auth-passport](https://github.com/Haufe-Lexware/wicked.auth-passport) project will also support ADFS in the future.
 
 ## Features
 
